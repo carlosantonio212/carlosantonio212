@@ -1,4 +1,4 @@
-## 😄 Olá, Eu sou o@carlosantonio212
+## 😄 Olá, Eu sou o @carlosantonio212
 - 👨‍💻 Estudante em Técnico de Informática para internet
 - 👨‍🎓 Estudante de Eng de Controle e Automação
 - 💻 Habilidades em linguagens de programação Java, python, PHP e Java script. 
