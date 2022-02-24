@@ -1,6 +1,6 @@
 ## 😄 Olá, Eu sou o @carlosantonio212
-- 👨‍💻 Técnico em Informática para internet
-- 👨‍🎓 Estudante de Eng de Controle e Automação
+- 👨‍💻 Técnico em Informática para internet - IFPE
+- 👨‍🎓 Estudante de Eng de Controle e Automação - UFRPE
 - 💻 Habilidades em linguagens de programação Java, python, PHP e Java script. 
 - 👉 Conhecimento em softwares como Ms Office, Azure, Power BI, SolidWorks e LibreCAD
 
