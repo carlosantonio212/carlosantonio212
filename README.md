@@ -1,8 +1,8 @@
-## 😄 Olá, Eu sou o @carlosantonio212
-- 👨‍💻 Técnico em Informática para internet - IFPE
-- 👨‍🎓 Estudante de Eng de Controle e Automação - UFRPE
-- 💻 Habilidades em linguagens de programação Java, python, PHP e Java script. 
-- 👉 Conhecimento em softwares como Ms Office, Azure, Power BI, SolidWorks e LibreCAD
+## 😄 Hello, I'm the @carlosantonio212
+- 👨‍💻 Computer Technician for Internet - IFPE
+- 👨‍🎓 Control and Automation Engineering Student - UFRPE
+- 💻 Programming language skills Java, python, PHP e Java script. 
+- 👉 Knowledge of software like Ms Office, Azure, Power BI, SolidWorks e LibreCAD
 
 <div align="center">
 <a href="https://github.com/carlosantonio212">
