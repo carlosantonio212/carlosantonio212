@@ -1,7 +1,7 @@
 ## 😄 Hello, I'm the @carlosantonio212
 - 👨‍💻 Computer Technician for Internet - IFPE
 - 👨‍🎓 Control and Automation Engineering Student - UFRPE
-- 💻 Programming language skills Java, python, PHP e Java script. 
+- 💻 Programming language skills Java, python, PHP and Java script. 
 - 👉 Knowledge of software like Ms Office, Azure, Power BI, SolidWorks e LibreCAD
 
 <div align="center">
