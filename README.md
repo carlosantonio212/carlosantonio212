@@ -3,11 +3,7 @@
 - 👨‍🎓 Control and Automation Engineering Student - UFRPE
 - 💻 Programming language skills Java, python, PHP and Java script. 
 - 👉 Knowledge of software like Ms Office, Azure, Power BI, SolidWorks e LibreCAD
-
-<div align="center">
-<a href="https://github.com/carlosantonio212">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosantonio212&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosantonio212&layout=compact&langs_count=7&theme=dracula"/>
+- 
   
 </div>
 
